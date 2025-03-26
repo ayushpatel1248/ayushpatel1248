@@ -6,6 +6,7 @@ I'm a B.Tech student in Computer Science and Engineering, specializing in Cyber 
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +29,13 @@ I'm a B.Tech student in Computer Science and Engineering, specializing in Cyber 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### DSA Proile
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 💼 Professional Experience
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-100000-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushpatel1248/)
+
 
 ### 🌐 Full Stack Developer Intern @ Coders Boutique
 - Developed 10+ responsive frontend pages using Next.js and Tailwind CSS
