@@ -29,7 +29,7 @@ I'm a B.Tech student in Computer Science and Engineering, specializing in Cyber 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### DSA Proile
+### DSA Profile
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-100000-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushpatel1248/)
 
 ### 🌐 Full Stack Developer Intern @ Coders Boutique
