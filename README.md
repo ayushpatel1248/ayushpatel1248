@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ayush Patel
 
 ## 🎓 About Me
-I'm a B.Tech student in Computer Science and Engineering, specializing in Cyber Security and Digital Forensics at VIT Bhopal University. With a strong academic background (GPA: 9.26/10), I'm passionate about full-stack development, cybersecurity, and innovative tech solutions.
+I'm a B.Tech student in Computer Science and Engineering, specializing in Cyber Security and Digital Forensics at VIT Bhopal University. With a strong academic background (GPA: 9.27/10), I'm passionate about full-stack development, cybersecurity, and innovative tech solutions.
 
 ## 🚀 Tech Stack
 
